@@ -1,0 +1,6 @@
+{
+  "name": "Yatri Nepal Ride & Taxi",
+  "description": "Nepal's ride booking app for Bike, Auto, Car & Bus with live tracking, eSewa & Khalti payments, multi-language support, push notifications, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
